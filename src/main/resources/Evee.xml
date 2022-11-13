@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Evee>
+    <Evee>
+        <name>Evee</name>
+        <type>Normal</type>
+        <abilities>
+            <ability>PISTOLA BURBUJA</ability>
+            <ability>PLACAJE</ability>
+        </abilities>
+        <stats>
+            <HP>100</HP>
+            <ATK>200</ATK>
+        </stats>
+    </Evee>
+</Evee>

@@ -1,0 +1,1 @@
+data class Pokemon (val nombre:String,val tipo:String, val habilidades:List<String>, val stats: Map<String,Int>)
